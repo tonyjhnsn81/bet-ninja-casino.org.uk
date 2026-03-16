@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://bet-ninja-casino.org.uk/sitemap.xml
